@@ -20,7 +20,7 @@ jobs:
           # Language plugins
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: Jupyter Notebook, Q#, C#
+          plugin_languages_ignored: ipynb, qs, cs, html, css, md
           plugin_languages_limit: 5
 
           # # Achievements plugin workaround
