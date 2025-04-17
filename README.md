@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Rohith Reddy Kota
 
-<!--
-**rohithreddykota/rohithreddykota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Senior Software Engineer | Data Engineer
 
-Here are some ideas to get you started:
+🏢 Working at [Rill Data, Inc.](https://www.rilldata.com/) – Building backend for fast, flexible operational BI dashboards  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Focus
+
+- Exploring, analyzing, and comparing database internals built using Go and Rust
+- Architecting scalable, distributed systems
+- Engineering data pipelines for batch & real-time analytics
+- Leveraging cloud platforms: AWS & GCP  
+- Contributing to open-source projects like [Rill Data](https://github.com/rilldata/rill)  
+- Diving deep into [Apache Arrow](https://arrow.apache.org/) and [Apache DataFusion](https://datafusion.apache.org/) to understand their architectures and performance characteristics
+- Developing and managing [Kubernetes Operators](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/) to automate complex application lifecycles
+- Engaging with startup ecosystems and entrepreneurial strategies
