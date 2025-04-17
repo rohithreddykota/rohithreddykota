@@ -8,7 +8,7 @@
 
 ## 🔭 Current Focus
 
-- Exploring, analyzing, and comparing database internals built using Go and Rust
+- Exploring, analyzing, and comparing database internals built using Go, C++ and Rust
 - Architecting scalable, distributed systems
 - Engineering data pipelines for batch & real-time analytics
 - Leveraging cloud platforms: AWS & GCP  
