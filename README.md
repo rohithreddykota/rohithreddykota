@@ -1,5 +1,3 @@
-<a href="https://rohithreddykota.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img alt="Rohith Reddy Kota, Forward Deployed Engineer at Rill Data. 50+ enterprise customers, 150+ proofs of concept, 2+ PB of ClickHouse, Druid, and DuckDB on Kubernetes." src="assets/hero-light.svg" width="100%"></picture></a>
-
 <p align="center">
   <a href="https://rohithreddykota.com"><img alt="Website" src="https://img.shields.io/badge/rohithreddykota.com-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rohithreddykota/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
