@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="236" viewBox="0 0 620 236" role="img" aria-labelledby="cs-mcp-optimization-t cs-mcp-optimization-d">
+  <title id="cs-mcp-optimization-t">AI-assisted ClickHouse optimization</title>
+  <desc id="cs-mcp-optimization-d">Multi-TB columns found in one audit pass. System tables to MCP server to Claude Code to Plan.</desc>
+  <style>
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <pattern id="cs-mcp-optimization-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/></pattern>
+    <radialGradient id="cs-mcp-optimization-glow" cx="0.95" cy="0" r="0.75"><stop offset="0" stop-color="#ff9f43" stop-opacity="0.2"/><stop offset="1" stop-color="#ff9f43" stop-opacity="0"/></radialGradient>
+    <clipPath id="cs-mcp-optimization-clip"><rect width="620" height="236" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#cs-mcp-optimization-clip)">
+    <rect width="620" height="236" fill="#0d1117"/>
+    <rect width="620" height="236" fill="url(#cs-mcp-optimization-grid)"/>
+    
+  </g>
+  <rect x="0.5" y="0.5" width="619" height="235" rx="16" fill="none" stroke="#30363d"/>
+  
+  <text x="28" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" letter-spacing="1.6" fill="#ff9f43">AI</text>
+  <text x="592" y="40" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#6e7681">Read ↗</text>
+  <text x="28" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="650" fill="#e6edf3">AI-assisted ClickHouse optimization</text>
+  <rect x="28" y="100" width="3" height="42" rx="1.5" fill="#ff9f43"/>
+  <text x="42" y="130" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700" fill="#e6edf3">Multi-TB</text>
+  <text x="190.4" y="129" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">columns found in one audit pass</text>
+  <g transform="translate(28 170)"><rect width="113.6" height="30" rx="7" fill="#21262d" stroke="#30363d" stroke-opacity="1"/><text x="56.8" y="19.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">System tables</text></g><text x="151.6" y="190" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6e7681">→</text><g transform="translate(167.6 170)"><rect width="92" height="30" rx="7" fill="#21262d" stroke="#30363d" stroke-opacity="1"/><text x="46" y="19.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">MCP server</text></g><text x="269.6" y="190" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6e7681">→</text><g transform="translate(285.6 170)"><rect width="99.2" height="30" rx="7" fill="#21262d" stroke="#30363d" stroke-opacity="1"/><text x="49.6" y="19.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">Claude Code</text></g><text x="394.8" y="190" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#6e7681">→</text><g transform="translate(410.8 170)"><rect width="48.8" height="30" rx="7" fill="rgba(255,159,67,0.12)" stroke="#ff9f43" stroke-opacity="0.6"/><text x="24.4" y="19.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">Plan</text></g>
+</svg>
