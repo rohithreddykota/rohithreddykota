@@ -23,7 +23,8 @@ I'm a Forward Deployed Engineer at [Rill Data](https://www.rilldata.com), and on
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Moving HyperLogLog sketches from BigQuery to ClickHouse without the raw data](https://rohithreddykota.com/blog/bigquery-hll-sketches-to-clickhouse-uniqcombined64/)
+<!-- BLOG-POST-LIST:START -->- [Small values in wide integer columns: what ClickHouse, Snowflake, BigQuery, Redshift and Parquet actually store](https://rohithreddykota.com/blog/small-values-in-wide-integer-columns-olap-engines/)
+- [Moving HyperLogLog sketches from BigQuery to ClickHouse without the raw data](https://rohithreddykota.com/blog/bigquery-hll-sketches-to-clickhouse-uniqcombined64/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Open source
