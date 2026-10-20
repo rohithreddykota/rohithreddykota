@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="484" viewBox="0 0 1280 484" role="img" aria-labelledby="cap-t cap-d">
   <title id="cap-t">What Rohith does</title>
-  <desc id="cap-d">Proofs of concept: 150+. Discovery, solution design, and a working deployment with Sales and GTM Enterprise deployments: 50+. SSO, migrations, and go-live through GitOps clusters and BYOC installs Storage &amp; query performance: &lt;30s. TB-scale scans after sort keys, projections, codecs, and compaction Petabyte scale on Kubernetes: 2+ PB. ClickHouse, Druid, and DuckDB on GKE with Helm, Terraform, and Go operators Roadmap and ownership: 50+. Customer requirements turned into shipped features, and accounts owned Agents that ship faster: MCP. MCP servers, agent skills, and an AI on-call agent for every deployment</desc>
+  <desc id="cap-d">Proofs of concept: 200+. Discovery, solution design, and a working deployment with Sales and GTM Enterprise deployments: 50+. SSO, migrations, and go-live through GitOps clusters and BYOC installs Storage &amp; query performance: &lt;30s. TB-scale scans after sort keys, projections, codecs, and compaction Petabyte scale on Kubernetes: 2+ PB. ClickHouse, Druid, and DuckDB on GKE with Helm, Terraform, and Go operators Roadmap and ownership: 50+. Customer requirements turned into shipped features, and accounts owned Agents that ship faster: MCP. MCP servers, agent skills, and an AI on-call agent for every deployment</desc>
   <style>
     
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
@@ -21,7 +21,7 @@
     <rect width="386.6666666666667" height="176" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
     <rect x="0" y="0" width="4" height="176" rx="2" fill="#c2410c" opacity="0.9"/>
     <text x="24" y="36" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" letter-spacing="1.6" fill="#c2410c">PRE-SALES</text>
-    <text x="362.6666666666667" y="44" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328">150+</text>
+    <text x="362.6666666666667" y="44" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="30" font-weight="700" fill="#1f2328">200+</text>
     <text x="24" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="650" fill="#1f2328">Proofs of concept</text>
     <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#59636e"><tspan x="24" y="120">Discovery, solution design, and a</tspan><tspan x="24" y="143">working deployment with Sales and GTM</tspan></text>
   </g>
