@@ -46,7 +46,7 @@ function hero(t, name) {
   const query = 'SELECT metric, value FROM rohith.profile;';
   const rows = [
     ['enterprise_customers', '50+', 'taken live on Rill'],
-    ['customer_pocs', '150+', 'proofs of concept'],
+    ['customer_pocs', '200+', 'proofs of concept'],
     ['data_managed', '2+ PB', 'ClickHouse, Druid, DuckDB'],
     ['olap_clusters', '30+', 'sharded, replicated, on GKE'],
     ['storage_cpu_saved', '30–40%', 'schema and compaction tuning'],
@@ -105,7 +105,7 @@ function hero(t, name) {
   </g>`;
   return frame(1280, 420, t, 'hero', body, {
     title: 'Rohith Reddy Kota, Forward Deployed Engineer at Rill Data',
-    desc: '50+ enterprise customers taken live, 150+ proofs of concept, 2+ PB of ClickHouse, Druid, and DuckDB on Kubernetes, 30+ OLAP clusters, 30 to 40 percent less storage and CPU, and TB-scale scans in under 30 seconds.',
+    desc: '50+ enterprise customers taken live, 200+ proofs of concept, 2+ PB of ClickHouse, Druid, and DuckDB on Kubernetes, 30+ OLAP clusters, 30 to 40 percent less storage and CPU, and TB-scale scans in under 30 seconds.',
     style,
   });
 }
@@ -113,7 +113,7 @@ function hero(t, name) {
 // ---------- 2. Capabilities ----------
 function capabilities(t) {
   const cards = [
-    ['PRE-SALES', 'Proofs of concept', '150+', ['Discovery, solution design, and a', 'working deployment with Sales and GTM']],
+    ['PRE-SALES', 'Proofs of concept', '200+', ['Discovery, solution design, and a', 'working deployment with Sales and GTM']],
     ['CUSTOMER ENGINEERING', 'Enterprise deployments', '50+', ['SSO, migrations, and go-live through', 'GitOps clusters and BYOC installs']],
     ['DATABASES', 'Storage & query performance', '<30s', ['TB-scale scans after sort keys,', 'projections, codecs, and compaction']],
     ['INFRASTRUCTURE', 'Petabyte scale on Kubernetes', '2+ PB', ['ClickHouse, Druid, and DuckDB on GKE', 'with Helm, Terraform, and Go operators']],
