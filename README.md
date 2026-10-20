@@ -8,7 +8,7 @@
 
 I'm a Forward Deployed Engineer at [Rill Data](https://www.rilldata.com), and one of its earliest engineers. I take enterprise AdTech and marketing-analytics customers from a proof of concept to production, and I run the ClickHouse, Apache Druid, and DuckDB fleet underneath them.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg"><img alt="What I do: 150+ proofs of concept, 50+ enterprise deployments, TB-scale scans in under 30 seconds, 2+ PB on Kubernetes, product and customer success, and AI tooling with MCP." src="assets/capabilities-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg"><img alt="What I do: 200+ proofs of concept, 50+ enterprise deployments, TB-scale scans in under 30 seconds, 2+ PB on Kubernetes, product and customer success, and AI tooling with MCP." src="assets/capabilities-light.svg" width="100%"></picture>
 
 ### Selected work
 
