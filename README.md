@@ -23,7 +23,9 @@ I'm a Forward Deployed Engineer at [Rill Data](https://www.rilldata.com), and on
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [If AI agents do the work, why open the app?](https://rohithreddykota.com/blog/the-app-was-the-interface/)
+<!-- BLOG-POST-LIST:START -->- [vLLM model behavior, multi-GPU serving, and tool calling](https://rohithreddykota.com/blog/vllm-model-behavior-multi-gpu-tool-calling/)
+- [vLLM latency, routing, and autoscaling](https://rohithreddykota.com/blog/vllm-latency-routing-autoscaling/)
+- [If AI agents do the work, why open the app?](https://rohithreddykota.com/blog/the-app-was-the-interface/)
 - [Small values in wide integer columns: what ClickHouse, Snowflake, BigQuery, Redshift and Parquet actually store](https://rohithreddykota.com/blog/small-values-in-wide-integer-columns-olap-engines/)
 - [Moving HyperLogLog sketches from BigQuery to ClickHouse without the raw data](https://rohithreddykota.com/blog/bigquery-hll-sketches-to-clickhouse-uniqcombined64/)
 <!-- BLOG-POST-LIST:END -->
